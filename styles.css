@@ -1,6 +1,11 @@
 html {
     scroll-behavior: smooth;
 }
+
+* {
+  box-sizing: border-box;
+}
+
 /* Reset and Base Styles */
 * {
     margin: 0;
